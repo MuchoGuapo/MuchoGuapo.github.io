@@ -1,0 +1,3 @@
+[submodule "theme/simple"]
+	path = theme/simple
+	url = git@github_HamKaz:HamKaz/hexo-theme-simple.git
