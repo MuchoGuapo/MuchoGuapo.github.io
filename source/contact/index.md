@@ -7,7 +7,7 @@ tags:
 - no_index
 ---
 
-<iframe src="https://forms.gle/SJHbNsokiJ5DtCH98?embedded=true" width="100%" height="1100px"frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdmBm-qirmuGJnWUaiY6pzL8BCNOpV9S2Nm_Vrll4J-b9o5yw/viewform?embedded=true" width="480px" height="1100px" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
 
 **このお問い合わせについて**
 公式のお問い合わせはこちらからもお受けします。

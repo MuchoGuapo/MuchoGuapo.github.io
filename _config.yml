@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 'Node.jsで始めるブログ'
+subtitle: '- レッツDIYクラブ -'
+description: 'Linux, Node.js, Hexoで自分のオリジナルブログを作りましょう。'
+keywords: Node.js, Linux, Hexo
+author: 'muchoguapo'
+language: ja
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://letsdiy.club
 permalink: :category/:pid/
 permalink_defaults:
 pretty_urls:
@@ -102,3 +102,29 @@ theme: simple
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+#CDN
+cdn : allow
+cdn_dir : https://burturki.sirv.com/diy/
+
+#sitemap.xml
+sitemap:
+    path: sitemap.xml
+    tag: false
+    category: false
+
+#robot.txt
+robotstxt:
+  useragent: "*"
+  disallow:
+    - /about/
+    - /archives/
+    - /contact/
+    - /privacypolicy/
+    - /categories/
+    - /tags/
+    - /css/
+    - /img/
+    - /js/
+  allow:
+  sitemap: /sitemap.xml
