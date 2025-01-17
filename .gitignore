@@ -8,3 +8,5 @@ scaffolds/
 .deploy*/
 _multiconfig.yml
 .github/
+_config.landscape.yml
+package-lock.json
