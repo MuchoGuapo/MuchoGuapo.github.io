@@ -2,11 +2,11 @@
 Thumbs.db
 db.json
 *.log
+_multiconfig.yml
+_config.landscape.yml
+package-lock.json
 node_modules/
 public/
 scaffolds/
 .deploy*/
-_multiconfig.yml
 .github/
-_config.landscape.yml
-package-lock.json
